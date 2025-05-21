@@ -1,2 +1,1 @@
-# reconstruction_of_a_piecewise_constant_function_from_noisy_data
 Ce projet explore une méthode de reconstruction d’un signal supposé constant par morceaux à partir d’observations bruitées. L’objectif est de retrouver la forme originale du signal en éliminant le bruit tout en identifiant les points de rupture. Ce problème est fréquent en traitement du signal, notamment dans l’analyse de séries temporelles.
